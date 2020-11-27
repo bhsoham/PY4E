@@ -1,3 +1,5 @@
+# ex10-final example of PY4E
+
 fname=input("Enter file name: ")
 fhandle=open(fname)
 
@@ -19,3 +21,4 @@ for k,v in counts.items():
 
 for k,v in sorted(temp):
     print(k,v)
+ 
